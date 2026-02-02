@@ -16,9 +16,10 @@ Click [here](https://ecatalog.calstatela.edu/preview_program.php?catoid=66&poid=
 
 ## Technical Certificates :spiral_notepad:
 ### Certificate of Achievement in Software Development - Issued 12/25
-![1000002163](https://github.com/user-attachments/assets/bb5f8267-73db-49c9-a88c-84afa9cd85b7)
+![1000002163](https://github.com/user-attachments/assets/20f11967-9c1e-4514-b15a-84cca1927014)
 **Description:**  provides a strong foundation in software development, preparing students for entry‑level roles in the field. Coursework covers application development, testing, and maintenance using languages such as Python, C++, Java, and SQL<br/>
 Click [here](https://curriculum.pasadena.edu/academic-programs/computer-information-systems/computer-information-systems-software-development-as-cert-achievement/) to learn more!
+
 **Related Skills:** `Python` `C++` `Java` `SQL` `Object-Oriented Programming` `Data Structures & Algorithms` `Software Development Life Cycle (SDLC)` `Relational Database Management Systems (RDBMS)` `Developing/Debugging/Testing`
 
 ### Zendesk: Explore/Analytics - Issued 09/23
